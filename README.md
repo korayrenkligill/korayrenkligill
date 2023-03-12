@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**korayrenkligill/korayrenkligill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- 🔭 I’m currently working on--> 
+- 🌱 I’m currently learning Javascript and ReactJs
+<!--- 👯 I’m looking to collaborate on ...--> 
+- 🤔 I’m looking for help with Patika.dev
+- 💬 Ask me about HTML, CSS, C# 
+- 📫 How to reach me: koray.renkligill@gmail.com
+<!--- 😄 Pronouns: ...--> 
+<!--- ⚡ Fun fact: ...--> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🌱 I’m currently learning: Computer Science and Software Engineering.
 🎯 I’m currently focusing on: Problem-Solving, ⭐️ star the projects if you like it 🤩.
 🤔 I’m currently open for: A new job opportunity, LINK TO MY RESUME.
