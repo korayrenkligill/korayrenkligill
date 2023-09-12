@@ -7,7 +7,7 @@
 
 - 👨‍💻 You can learn more about me here [korayrenkligill.com](korayrenkligill.com)
 
-- 💬 Ask me about **HTML, CSS, C#**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS**
 
 - 📫 How to reach me **koray.renkligill@gmail.com**
 
