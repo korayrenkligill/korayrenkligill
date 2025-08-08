@@ -25,5 +25,4 @@ Passionate about clean code, performance optimization, and sustainable project a
 ---
 
 ## GitHub Stats
-![Koray's GitHub Stats](https://github-readme-stats.vercel.app/api?username=korayrenkligill&show_icons=true&theme=default&hide_title=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=korayrenkligill&layout=compact&theme=default)
